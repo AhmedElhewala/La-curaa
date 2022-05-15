@@ -2168,7 +2168,7 @@ nav>ul.container li>ul>li>a {
 
 @media (max-width: 767px) {
     .feedbacks-section .container .feedback-box .feedback-user {
-        gap: 10px;
+        gap: 15px;
     }
 }
 
