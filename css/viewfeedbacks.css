@@ -2192,6 +2192,13 @@ nav>ul.container li>ul>li>a {
     -o-transition: var(--main-transition);
 }
 
+@media (max-width: 767px) {
+    .feedbacks-section .container .feedback-box .feedback-user picture {
+        height: 40px;
+        width: 40px;
+    }
+}
+
 .feedbacks-section .container .feedback-box .feedback-user picture img {
     max-width: 100%;
 }
