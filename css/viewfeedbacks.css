@@ -2255,6 +2255,7 @@ nav>ul.container li>ul>li>a {
     -o-transition: var(--main-transition);
     position: relative;
     bottom: 0;
+    user-select: none;
 }
 
 .feedbacks-section span.feedback-link.less:hover {
